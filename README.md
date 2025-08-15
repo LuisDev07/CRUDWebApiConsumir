@@ -116,6 +116,8 @@ INSERT INTO Recargas (Descripcion, monto) VALUES
 
 **Pantalla Principal Windows Form**  
 <img width="800" alt="Pantalla Principal Windows Form" src="https://github.com/user-attachments/assets/085d883e-4ea7-4737-b54c-e3a77cddeb7e" />  
+**Pantalla Principal de Registro de Recarga**  
+<img width="715" height="604" alt="Pantalla Principal de Registro de Recarga" src="https://github.com/user-attachments/assets/fe357e09-43ea-4ca6-8613-0066acdb2cbc" />
 
 **Pantalla de Detalle de Recarga**  
 <img width="800" alt="Pantalla de Detalle de Recarga" src="https://github.com/user-attachments/assets/fa8d86d3-709a-4b25-8314-3e123dae4e96" />  
