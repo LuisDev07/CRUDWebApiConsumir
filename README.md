@@ -1,4 +1,4 @@
-# catalogorecarga
+# CRUDWebApiConsumir
 
 ![.NET](https://img.shields.io/badge/.NET-7.0-blue)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
@@ -55,8 +55,8 @@ Antes de ejecutar la aplicación, asegúrate de tener:
 
 1. Clonar el repositorio principal (Windows Forms):  
 ```bash
-git clone https://github.com/tuUsuario/SysRecargasApp.git
-cd SysRecargasApp
+git clone https://github.com/LuisDev07/CRUDWebApiConsumir.git
+cd CRUDWebApiConsumir
 ```
 
 2. Configurar la conexión a la base de datos en el archivo de configuración de la Web API y de la aplicación Windows Forms.  
