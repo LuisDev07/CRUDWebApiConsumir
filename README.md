@@ -52,11 +52,24 @@ Antes de ejecutar la aplicación, asegúrate de tener:
 ---
 
 ## Instalación
+```
+Clonar el repositorio principal (Windows Forms)
 
-1. Clonar el repositorio principal (Windows Forms):  
-```bash
 git clone https://github.com/LuisDev07/CRUDWebApiConsumir.git
 cd CRUDWebApiConsumir
+
+
+Clonar el repositorio de la base de datos
+
+git clone https://github.com/LuisDev07/DatabaseCRUDCatalogoRecarga.git
+cd DatabaseCRUDCatalogoRecarga
+
+
+Clonar el repositorio de la Web API
+
+git clone https://github.com/LuisDev07/CatalogoDeRecargasWebAPI.git
+cd CatalogoDeRecargasWebAPI
+
 ```
 
 2. Configurar la conexión a la base de datos en el archivo de configuración de la Web API y de la aplicación Windows Forms.  
@@ -105,6 +118,9 @@ INSERT INTO Recargas (Descripcion, monto) VALUES
 3. Desde la interfaz, podrás listar, agregar, editar y desactivar recargas.  
 
 ---
+
+
+
 
 ## Capturas
 
